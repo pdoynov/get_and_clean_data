@@ -1,6 +1,6 @@
 # get_and_clean_data
 This repository hosts the R code and related documentation files for the Data Science's
-track course "Getting and Cleaning data", available on Coursera MOOC.
+track course "Getting and Cleaning Data", available on Coursera MOOC.
 
 The dataset being used is recorded for Human Activity Recognition Using Smartphones project.
 
