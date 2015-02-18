@@ -12,8 +12,8 @@ extracting these columns, they are renamed according to the correct descriptive 
 •	As activity data is addressed with values 1:6, we take the activity names and IDs from activity_labels.txt and
 they are substituted in the dataset.
 •	On the whole dataset, those columns with vague column names are corrected.
-•	Finally, we generate a new dataset with all the average measures for each subject and activity type (30 subjects
-* 6 activities = 180 rows).
+•	Finally, we generate a new dataset with all the average measures for each subject and activity type
+(30 subjects x 6 activities = 180 rows).
 
 The output file is called data_all_averaged.txt, and uploaded to this repository.
 
